@@ -1,3 +1,13 @@
 # data-science-and-analytics
-Clustering, análise fatorial e PCA e análise de correspondência simples e múltipla.
-Análise de regressão simples e múltipla, modelos logísticos binários e multinomiais, modelos para dados de contagem e modelo multinível.
+
+Olá, pessoal! Aqui estão meus projetos de:
+
+- Clustering 
+- Análise Fatorial e PCA 
+- Análise de Correspondência Simples e Múltipla 
+- Análise de Regressão Simples e Múltipla 
+- Modelos Logísticos Binários e Multinomiais 
+- Modelos para Dados de Contagem 
+- Modelagem Multinível 
+- Big Data e Deployment de Modelos
+- Séries Temporais 
